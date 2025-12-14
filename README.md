@@ -1,6 +1,6 @@
 # NGO Impact Tracker
 
-Simple two-tier app for collecting NGO monthly reports (single or CSV bulk) with a lightweight dashboard. Backend is Express + SQLite; frontend is Vite + React.
+Simple two-tier app for collecting NGO monthly reports (single or CSV bulk) with a lightweight dashboard.
 
 ### Backend
 ```
